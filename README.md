@@ -27,3 +27,24 @@ This course blends theory with hands-on application. Students will employ tools 
 This program is designed for Finance students with an interest in Data Science. Participants are expected to have a foundational understanding of mathematics and statistics, as well as a basic grasp of financial concepts.
 
 This course presents an opportunity to explore the intersection of financial principles and cutting-edge technologies. Data Science is reshaping the financial industry, and this course will equip students with essential skills to thrive in this new era of financial data analysis.
+
+
+
+<table>
+<caption>Contenidos</caption>
+  <tr>
+    <td> <strong>Temática</strong> </td>
+    <td> <strong>Presentación/ notebook </strong></td>
+    <td> <strong>Ejercicios</strong></td>
+  </tr>
+  <tr>
+    <td> 1. Cleaning data </td>
+    <td rowspan="2"><a href="https://nbviewer.org/github/Fabiancaru/Data_science/blob/main/notebooks/Cleaning_data_Example.ipynb">Example Cleaning</td> 
+<!--    <td rowspan="2"><a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/R%C3%BAbrica%20de%20evaluaci%C3%B3n%20ejercicio%20Regresi%C3%B3n%20Lineal_2023_2.pdf">Rúbrica_Exercise_lineal          </td> -->
+  <tr>
+    </tr>  
+<!--  <td> 2. Classification </td> -->
+<!--  <td>   <a href="https://nbviewer.org/github/Fabiancaru/Machine_Learning/blob/main/Smarket.ipynb">Classification_Smarket</a></td> -->
+    
+  </tr>    
+</table>    
