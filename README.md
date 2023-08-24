@@ -38,11 +38,17 @@ This course presents an opportunity to explore the intersection of financial pri
     <td> <strong>Ejercicios</strong></td>
   </tr>
   <tr>
-    <td> 1. Cleaning data </td>
-    <td rowspan="2"><a href="https://nbviewer.org/github/Fabiancaru/Data_science/blob/main/Notebooks/Cleaning_data1_Python.ipynb">Example Cleaning</td> 
+    <td> 1. Cleaning data 
+    <td> <li>  <a href="https://nbviewer.org/github/Fabiancaru/Data_science/blob/main/Notebooks/Cleaning_data1_Python.ipynb">Example Cleaning</a> 
+     <li>  <a href="https://github.com/Fabiancaru/Data_science/blob/main/Cleaning_data.md"> Code</a> 
+    <td>  
+    
+    </td>
+  </tr>
 <!--    <td rowspan="2"><a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/R%C3%BAbrica%20de%20evaluaci%C3%B3n%20ejercicio%20Regresi%C3%B3n%20Lineal_2023_2.pdf">Rúbrica_Exercise_lineal          </td> -->
-  <tr>
-    </tr>  
+  
+  
+    
 <!--  <td> 2. Classification </td> -->
 <!--  <td>   <a href="https://nbviewer.org/github/Fabiancaru/Machine_Learning/blob/main/Smarket.ipynb">Classification_Smarket</a></td> -->
     
