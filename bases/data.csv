@@ -1,0 +1,103 @@
+ID;Age;Income;Gender;Education;Marital_Status;Children;Credit_Score
+1;56.0;22695.0;Female;Bachelor;Divorced;1;717
+2;46.0;68190.0;Male;Bachelor;Married;0;414
+3;32.0;25258.0;Female;Bachelor;Divorced;2;495
+4;60.0;59504.0;Female;Master;Married;2;800
+5;25.0;53159.0;Female;PhD;Divorced;3;792
+6;38.0;33986.0;Female;High School;Divorced;-1;374
+7;56.0;81858.0;Male;High School;Married;-1;712
+8;36.0;32666.0;Male;PhD;Married;-1;675
+9;40.0;58660.0;Female;High School;Married;-1;719
+10;28.0;23561.0;Female;PhD;Single;-1;576
+11;;46854.0;Male;High School;Single;-1;693
+12;;84505.0;Male;Bachelor;Single;-1;756
+13;;72251.0;Female;High School;Divorced;-1;491
+14;;42662.0;Male;PhD;Married;-1;398
+15;;28392.0;Female;PhD;Divorced;-1;847
+16;;50535.0;Female;PhD;Single;-1;395
+17;;98603.0;Male;PhD;Married;0;489
+18;;72256.0;Male;PhD;Divorced;1;336
+19;;55222.0;Female;Master;Married;1;668
+20;;97373.0;Female;Master;Divorced;1;824
+21;;99575.0;Male;High School;Married;3;578
+22;55.0;83335.0;Female;PhD;Single;0;516
+23;19.0;30965.0;Male;High School;Single;3;572
+24;38.0;44538.0;Female;PhD;Married;3;361
+25;50.0;90592.0;Male;PhD;Divorced;1;641
+25;50.0;90592.0;Male;PhD;Divorced;1;641
+26;29.0;28110.0;Male;Master;Single;1;1000
+27;39.0;99309.0;Male;Master;Single;3;1000
+28;61.0;47266.0;Female;Bachelor;Single;0;1000
+29;42.0;72992.0;Female;Master;Married;2;1000
+30;44.0;26910.0;Male;Bachelor;Married;3;1000
+31;59.0;;Female;Bachelor;Divorced;0;1000
+32;45.0;;Male;Bachelor;Divorced;1;1000
+33;33.0;;Male;Bachelor;Divorced;1;1000
+34;32.0;;Female;Bachelor;Married;0;1000
+35;64.0;;Female;High School;Married;2;1000
+36;61.0;;Male;Master;Divorced;1;1000
+37;20.0;;Female;Bachelor;Divorced;1;666
+38;54.0;;Female;PhD;Married;1;443
+39;24.0;;Male;Master;Divorced;0;368
+40;38.0;;Male;Master;Single;3;398
+41;26.0;;Female;Bachelor;Married;1;695
+42;56.0;82623.0;Male;High School;Divorced;3;324
+43;35.0;95450.0;Male;Bachelor;Married;2;768
+44;21.0;42299.0;Female;High School;Single;1;783
+45;42.0;63585.0;Male;PhD;Married;1;450
+46;31.0;84044.0;Male;Master;Married;2;443
+47;26.0;62557.0;Female;PhD;Married;1;338
+48;43.0;69080.0;Female;High School;Married;3;408
+49;19.0;22693.0;Male;High School;Single;0;341
+50;37.0;89163.0;Male;PhD;Married;3;485
+51;45.0;45939.0;Other;High School;Married;0;697
+52;64.0;68925.0;Other;PhD;Divorced;0;522
+53;24.0;62941.0;Other;Master;Married;3;432
+54;61.0;41834.0;Other;PhD;Divorced;3;462
+55;25.0;38047.0;Other;Master;Single;3;514
+56;64.0;46105.0;Other;PhD;Single;3;534
+57;52.0;95766.0;Other;High School;Single;2;308
+58;31.0;35707.0;Other;PhD;Single;1;373
+59;34.0;41976.0;Other;High School;Divorced;0;791
+60;53.0;64262.0;Other;PhD;Married;3;552
+61;57.0;43776.0;Other;PhD;Single;3;529
+62;21.0;50080.0;Female;Bachelor;Married;3;818
+63;19.0;86842.0;Female;High School;Divorced;2;473
+64;23.0;81373.0;Male;Bachelor;Divorced;3;467
+65;59.0;26776.0;Male;High School;Divorced;3;469
+66;21.0;75016.0;Female;Bachelor;Single;3;692
+67;46.0;29474.0;Male;Master;Married;1;493
+68;35.0;78053.0;Male;PhD;Married;2;816
+69;43.0;41959.0;Male;High School;Married;3;328
+70;61.0;25530.0;Male;High School;Divorced;0;464
+71;51.0;23748.0;Male;None;Single;0;721
+72;27.0;33545.0;Male;None;Divorced;0;638
+73;53.0;86199.0;Female;None;Divorced;2;795
+74;31.0;54766.0;Female;None;Married;2;664
+75;48.0;93530.0;Male;None;Divorced;0;641
+76;32.0;81087.0;Female;None;Married;3;799
+77;25.0;88840.0;Female;None;Single;2;810
+78;31.0;74384.0;Female;None;Married;0;626
+79;40.0;71005.0;Female;None;Single;0;516
+80;57.0;66576.0;Male;None;Married;3;600
+81;38.0;59353.0;Female;None;Divorced;1;431
+82;33.0;82003.0;Female;High School;Divorced;2;369
+83;62.0;72733.0;Male;High School;Single;3;551
+83;62.0;72733.0;Male;High School;Single;3;551
+84;35.0;85318.0;Male;PhD;Single;0;714
+85;64.0;43664.0;Female;Master;Single;0;744
+86;41.0;87172.0;Female;High School;Married;3;481
+87;43.0;46736.0;Female;PhD;Married;2;466
+88;42.0;20854.0;Female;Master;Single;1;390
+89;62.0;58623.0;Female;PhD;Divorced;1;830
+90;58.0;27392.0;Female;Bachelor;Married;0;338
+91;46.0;75680.0;Male;High School;;2;425
+92;32.0;66717.0;Female;Bachelor;;1;750
+93;62.0;70859.0;Female;Master;;2;472
+94;18.0;46309.0;Male;Bachelor;;2;519
+95;42.0;83734.0;Male;Bachelor;;0;357
+96;24.0;90467.0;Male;Master;;1;775
+97;26.0;72662.0;Male;PhD;;3;755
+98;41.0;32688.0;Female;Bachelor;;0;660
+99;18.0;45342.0;Female;PhD;;1;300
+100;61.0;57157.0;Female;Bachelor;;1;686
