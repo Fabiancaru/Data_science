@@ -41,7 +41,7 @@ This course presents an opportunity to explore the intersection of financial pri
     <td> 1. Cleaning data 
     <td> <li>  <a href="https://nbviewer.org/github/Fabiancaru/Data_science/blob/main/Notebooks/Cleaning_data1_Python.ipynb">Example Cleaning</a> 
          <li>  <a href="https://github.com/Fabiancaru/Data_science/blob/main/Cleaning_data.md"> Code</a> 
-    <td>   <a hred="https://github.com/Fabiancaru/Data_science/blob/main/Exercise.md"> Exercise </a>
+    <td>   <a href="https://github.com/Fabiancaru/Data_science/blob/main/Exercise.md"> Exercise </a>
     
     
   </tr>
