@@ -57,7 +57,9 @@ This course presents an opportunity to explore the intersection of financial pri
   </tr>    
   <tr>
     <td> Mini proyecto 1.
-    <td> <a href="https://drive.google.com/file/d/1OVjHC7Q9lP2IDksWtrvUQdf3LhfUfCSQ/view?usp=sharing"> Base_mini_proyecto_1</td>
+    <td> <li> <a href="https://drive.google.com/file/d/1OVjHC7Q9lP2IDksWtrvUQdf3LhfUfCSQ/view?usp=sharing"> Base_mini_proyecto_1
+          <li> <a href="https://github.com/Fabiancaru/Data_science/blob/main/Mini%20Proyecto%201.pdf"> Mini proyecto
+    </td>
     
   </tr>
 </table>    
