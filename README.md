@@ -49,11 +49,15 @@ This course presents an opportunity to explore the intersection of financial pri
     <td> 1. Train Test Plit 
     <td> <li>  <a href="https://nbviewer.org/github/Fabiancaru/Data_science/blob/main/Notebooks/Train_test_spli.ipynb">Train Test split</a> 
 <!--    <td rowspan="2"><a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/R%C3%BAbrica%20de%20evaluaci%C3%B3n%20ejercicio%20Regresi%C3%B3n%20Lineal_2023_2.pdf">Rúbrica_Exercise_lineal          </td> -->
-  
-  
+ 
     
 <!--  <td> 2. Classification </td> -->
 <!--  <td>   <a href="https://nbviewer.org/github/Fabiancaru/Machine_Learning/blob/main/Smarket.ipynb">Classification_Smarket</a></td> -->
     
   </tr>    
+  <tr>
+    <td> Mini proyecto 1.
+    <td> <a href="https://drive.google.com/file/d/1OVjHC7Q9lP2IDksWtrvUQdf3LhfUfCSQ/view?usp=sharing"> Base_mini_proyecto_1</td>
+    
+  </tr>
 </table>    
