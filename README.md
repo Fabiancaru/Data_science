@@ -67,6 +67,11 @@ This course presents an opportunity to explore the intersection of financial pri
       <td><li> <a href="https://github.com/Fabiancaru/Data_science/blob/main/Linea_regress.pdf"> Linear Regresion  </li>
       </td>
   </tr>
+        <tr>
+      <td> 5. Logistic Regression
+      <td><li> <a href="https://github.com/Fabiancaru/Data_science/blob/main/Notebooks/Logistic_regression_2023.ipynb"> Logistic Regresion  </li>
+      </td>
+  </tr>
   <tr>
       <td> Mini proyecto 2.
       <td><li> <a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/WalmarT.csv"> Data mini proyecto 2</li>
