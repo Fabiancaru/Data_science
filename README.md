@@ -65,6 +65,16 @@ This course presents an opportunity to explore the intersection of financial pri
   <tr>
       <td> 4. Linear Regression
       <td><li> <a href="https://github.com/Fabiancaru/Data_science/blob/main/Linea_regress.pdf"> Linear Regresion  </li>
+      </td>
+  </tr>
+  <tr>
+      <td> Mini proyecto 2.
+      <td><li> <a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/WalmarT.csv"> Data mini proyecto 2</li>
+          <li> <a href="https://github.com/Fabiancaru/Data_science/blob/main/Walmart%20Dataset.pdf"> Mini protecto 2</li>
+          <li> <a href="https://github.com/Fabiancaru/Data_science/blob/main/R%C3%BAbrica%20de%20evaluaci%C3%B3n%20Mini%20proyecto%202.pdf"> Rúbrica Mini protecto 2</li>
+      
+  </tr>
+  
           <li> <a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/linear_regression_2023_2.ipynb"> code_linear Regression </li>
         
   </td>
