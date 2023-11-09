@@ -72,7 +72,7 @@ This course presents an opportunity to explore the intersection of financial pri
       <td> 5. Logistic Regression
       <td><li> <a href="https://github.com/Fabiancaru/Data_science/blob/main/Notebooks/Logistic_regression_2023.ipynb"> Logistic Regresion  </li>
         
-      </td>
+    
   </tr>
   <tr>
       <td> Mini proyecto 2.
