@@ -65,11 +65,13 @@ This course presents an opportunity to explore the intersection of financial pri
   <tr>
       <td> 4. Linear Regression
       <td><li> <a href="https://github.com/Fabiancaru/Data_science/blob/main/Linea_regress.pdf"> Linear Regresion  </li>
+        <li> <a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/linear_regression_2023_2.ipynb"> Código </li>
       </td>
   </tr>
         <tr>
       <td> 5. Logistic Regression
       <td><li> <a href="https://github.com/Fabiancaru/Data_science/blob/main/Notebooks/Logistic_regression_2023.ipynb"> Logistic Regresion  </li>
+        
       </td>
   </tr>
   <tr>
@@ -79,8 +81,21 @@ This course presents an opportunity to explore the intersection of financial pri
           <li> <a href="https://github.com/Fabiancaru/Data_science/blob/main/R%C3%BAbrica%20de%20evaluaci%C3%B3n%20Mini%20proyecto%202.pdf"> Rúbrica Mini protecto 2</li>
       
   </tr>
+
+<tr>
+      <td> Tree.
+      <td><li> <a href="https://github.com/Fabiancaru/Data_science/blob/main/Tree/Tree_FC.pdf"> Presentación</li>
+         
+      
+  </tr>
+
+
+
+
+
   
-          <li> <a href="https://github.com/Fabiancaru/Machine_Learning/blob/main/linear_regression_2023_2.ipynb"> code_linear Regression </li>
+  
+          
         
   </td>
   </tr>  
