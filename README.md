@@ -85,7 +85,7 @@ This course presents an opportunity to explore the intersection of financial pri
 <tr>
       <td> Tree.
       <td><li> <a href="https://github.com/Fabiancaru/Data_science/blob/main/Tree/Tree_FC.pdf"> Presentación</li>
-         
+          <li> <a href="https://github.com/Fabiancaru/Data_science/blob/main/Notebooks/Validaci%C3%B3n_cruzada_en_Python.ipynb"> Cross_validation</li>  
       
   </tr>
 
